@@ -1,3 +1,6 @@
+var song;
+var myFont;
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
